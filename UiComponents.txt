@@ -1,0 +1,37 @@
+UI Components can be used
+----------------------------
+
+1. Sweet and pure css3  ui switch 
+	http://codepen.io/cbp/pen/FLdjI
+
+2. Flat to do list
+	http://codepen.io/andytran/pen/obCkv
+
+3. Faded top navigation menu
+	http://codepen.io/pirrera/pen/zapbh
+
+4. Clean html5 form
+	http://codepen.io/boylett/pen/Cylpr
+
+5. CSS Responsive Animated Accordion
+	http://codepen.io/chriswrightdesign/pen/cmanI
+
+6. Down Menu ↑ Click
+	http://codepen.io/mp_graphic/pen/xHCwF
+
+7. Live analog and digital clock
+	http://codepen.io/iliadraznin/pen/JcqbE
+
+8. Flat Horizontal Navigation
+	http://codepen.io/andytran/pen/kmAEy
+
+9. Pulse Loading Animation
+	http://codepen.io/goapp/pen/kIfDC
+
+10. Spinning Loaders
+	http://codepen.io/WhiteWolfWizard/pen/IxBsm
+
+11. Meta Data Hover
+	http://codepen.io/austinteer/pen/AwhyL
+
+

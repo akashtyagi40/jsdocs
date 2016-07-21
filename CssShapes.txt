@@ -1,0 +1,5 @@
+CSS Shapes
+----------
+
+CSS shapes will only work for block-level elements like span, 
+Content will always flow to the one side only whether left side of floated item or right side of the left floated item
