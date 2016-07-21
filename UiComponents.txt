@@ -106,3 +106,15 @@ UI Components can be used
 
 35. Weather Widget 
 	http://codepen.io/dkafle/pen/IAnCK
+
+36. List/Grid View Switcher/ Image tile icons
+	http://codepen.io/WhiteWolfWizard/pen/nBDKo
+
+37. CSS3 vCard/ Cards layout for websites
+	http://codepen.io/TimRuby/pen/zJLFj
+
+38. Simple blog editor 
+	http://codepen.io/ledge/pen/DctHG
+
+
+References : http://designwoop.com/2013/12/30-open-source-css3-code-samples-web-developers/
