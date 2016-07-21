@@ -1,0 +1,11 @@
+Event Loop
+----------
+Work queues up to subsequently to be executed.
+JS supports concurrency by not blocking IO calls.
+eg) http://plnkr.co/edit/ZOAaSdtnfvR6WwiuVZ6s?p=preview
+
+One code is executed to complete and then another code comes into picture till then it waits in event loop queue.
+
+
+
+
