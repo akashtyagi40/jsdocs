@@ -34,4 +34,75 @@ UI Components can be used
 11. Meta Data Hover
 	http://codepen.io/austinteer/pen/AwhyL
 
+12. Process Steps - Connect dots
+	http://spyrestudios.com/33-frontend-design-patterns-css3-jquery/
 
+13. Hover animations on icons
+	http://codepen.io/wifeo/pen/lbrqi
+
+14. Newspaper style design with image animation
+	http://codepen.io/silkine/pen/jldif
+
+15. Responsive Pagination
+	http://codepen.io/netzzwerg/pen/hfutI
+
+16. Paper Shadow
+	http://codepen.io/Fahscinate/pen/cFJGB
+
+17. Swipe List Items
+	http://codepen.io/winkerVSbecks/pen/zfbiE
+
+18. Circle Notifications
+	http://codepen.io/amortka/pen/CrFcx
+
+19. Glossy Ribbon
+	http://codepen.io/manab_27/pen/KqzbB
+
+20. Confetti Preloader
+	http://codepen.io/zadvorsky/pen/CoDes
+
+21. Pure CSS Tags for selection and de selection
+	http://codepen.io/thiesbrake/pen/dEmiA
+
+22. Dark calendar
+	http://codepen.io/KennySing/pen/rBDlJ
+
+23. Signup/Login Form
+	http://codepen.io/trangsihung/pen/zbwGx
+
+24. Spinning Pulse Loader
+	http://codepen.io/thiesbrake/pen/bvLcI
+
+25. Sign up html form
+	http://codepen.io/salahayman/pen/pzcwH
+
+26. http://codepen.io/pmcgriff/pen/IrHek
+	CSS Shake
+
+
+27. Paper Login Form 
+	http://codepen.io/eode9/pen/Kdali
+
+28. Social Navigation
+	http://codepen.io/salahayman/pen/cDdrm
+
+29. Loading Bar
+	http://codepen.io/gssxgss/pen/drBwc
+
+30. Scrolling Movie Credits
+	http://codepen.io/reejosamuel/pen/ALjcr
+
+31. CSS3 tags
+	http://codepen.io/elstgav/pen/ykszb
+
+32. Corner Ribbons 
+	http://codepen.io/eode9/pen/twkKm
+
+33. CSS3 Loader Dots
+	http://codepen.io/zigomir/pen/qvGmL
+
+34. Pure css side menu collapsable
+	http://codepen.io/wollsale/pen/DJKen
+
+35. Weather Widget 
+	http://codepen.io/dkafle/pen/IAnCK
